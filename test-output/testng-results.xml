@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93367" started-at="2024-08-02T14:41:54Z" finished-at="2024-08-02T14:43:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93367" started-at="2024-08-02T14:41:54Z" finished-at="2024-08-02T14:43:27Z">
+      <class name="com.test.jiomart.JioMart">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="generateReport" is-config="true" duration-ms="507" started-at="2024-08-02T14:41:54Z" finished-at="2024-08-02T14:41:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="OpenApplication" is-config="true" duration-ms="6906" started-at="2024-08-02T14:41:56Z" finished-at="2024-08-02T14:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="jioMartt(java.lang.String)[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="jioMartt" duration-ms="21903" started-at="2024-08-02T14:42:03Z" data-provider="getData" finished-at="2024-08-02T14:42:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chips]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jioMartt -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="closeBrowser" is-config="true" duration-ms="1201" started-at="2024-08-02T14:42:25Z" finished-at="2024-08-02T14:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="OpenApplication" is-config="true" duration-ms="6101" started-at="2024-08-02T14:42:26Z" finished-at="2024-08-02T14:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="jioMartt(java.lang.String)[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="jioMartt" duration-ms="20584" started-at="2024-08-02T14:42:32Z" data-provider="getData" finished-at="2024-08-02T14:42:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vegetables]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jioMartt -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="closeBrowser" is-config="true" duration-ms="1103" started-at="2024-08-02T14:42:52Z" finished-at="2024-08-02T14:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="OpenApplication" is-config="true" duration-ms="4945" started-at="2024-08-02T14:42:53Z" finished-at="2024-08-02T14:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="jioMartt(java.lang.String)[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="jioMartt" duration-ms="20804" started-at="2024-08-02T14:42:58Z" data-provider="getData" finished-at="2024-08-02T14:43:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fruits]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jioMartt -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="closeBrowser" is-config="true" duration-ms="1049" started-at="2024-08-02T14:43:19Z" finished-at="2024-08-02T14:43:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="OpenApplication()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="OpenApplication" is-config="true" duration-ms="5331" started-at="2024-08-02T14:43:20Z" finished-at="2024-08-02T14:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApplication -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="test" duration-ms="3" started-at="2024-08-02T14:43:26Z" finished-at="2024-08-02T14:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="closeBrowser" is-config="true" duration-ms="923" started-at="2024-08-02T14:43:26Z" finished-at="2024-08-02T14:43:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="endreport()[pri:0, instance:com.test.jiomart.JioMart@20398b7c]" name="endreport" is-config="true" duration-ms="787" started-at="2024-08-02T14:43:27Z" finished-at="2024-08-02T14:43:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endreport -->
+      </class> <!-- com.test.jiomart.JioMart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
